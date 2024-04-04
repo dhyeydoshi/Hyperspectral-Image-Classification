@@ -1,6 +1,6 @@
 # Hyperspectral Image Classification
 
-This Python project provides a comprehensive pipeline for classifying hyperspectral imagery data. It is designed to preprocess hyperspectral images, apply various classification algorithms, and evaluate the performance of these classifiers. The pipeline utilizes machine learning techniques, including feature selection, normalization, and handling imbalanced datasets, to predict land cover types from hyperspectral data.
+This Python project provides a comprehensive pipeline for classifying hyperspectral imagery data. It is designed to preprocess hyperspectral images, apply various classification algorithms, and evaluate the performance of these classifiers. The pipeline utilizes machine learning techniques, including feature selection, normalization, and handling imbalanced datasets, to predict soil types from hyperspectral data.
 
 ## Features
  
